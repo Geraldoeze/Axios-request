@@ -1,0 +1,37 @@
+
+.cont{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    border: 1px solid green;
+}
+
+label{
+    display: block;
+}
+.input{
+    width: 65%;
+}
+
+.c{
+    height: 60px;
+}
+
+
+.btn1 {
+    
+    background-color: transparent;
+    color:rgba(119, 119, 27, 0.925);
+    border: 1px solid yellow;
+    font-weight:bold ;
+    cursor: pointer;
+    margin: 5px;
+    padding: 10px 5px;
+    text-align: center;
+}
+
+.btn1:hover,
+.btni:active {
+    background-color: gold;
+    color: maroon;
+}

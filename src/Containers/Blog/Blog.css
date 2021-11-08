@@ -1,0 +1,20 @@
+.post{
+    display:flex;
+    flex-wrap: wrap;
+    position: sticky;
+    justify-content: center;
+    box-sizing: border-box;
+    
+}
+
+.fullpost {
+    justify-content: center;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.newpost{
+    margin: auto;
+    align-items: center;
+}
+

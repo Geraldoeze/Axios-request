@@ -1,0 +1,20 @@
+
+
+.new{
+    text-align: center;
+    width: 80%;
+    margin: 20px auto;
+    padding-top: 10px;
+    border: 1px solid green;
+    box-shadow: 2px 4px  rgb(216, 215, 211);
+    
+}
+
+.btn {
+    background-color: transparent;
+    color: red;
+    border: 0;
+    font-weight:bold ;
+    cursor: pointer;
+    padding: 14px 5px;
+}
